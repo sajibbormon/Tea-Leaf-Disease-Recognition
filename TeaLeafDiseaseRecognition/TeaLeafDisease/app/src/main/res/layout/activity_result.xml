@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#F5F5F5"
+    tools:context=".ResultActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/resultImage"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:contentDescription="@string/result_image"
+            android:scaleType="centerCrop"
+            android:background="@drawable/ic_launcher_background"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/tvPrediction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/prediction"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#1B548D"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/tvConfidence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confidence"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginTop="16dp" />
+
+        <ProgressBar
+            android:id="@+id/confidenceBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:max="100"
+            android:progress="0"
+            android:indeterminate="false" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Disease description will appear here."
+            android:textSize="16sp"
+            android:textColor="#333333"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/btnKnowMore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌐 Know More"
+            android:backgroundTint="#358E37"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="↩️ Back"
+            android:backgroundTint="#358E37"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:layout_marginTop="30dp" />
+
+    </LinearLayout>
+</ScrollView>
