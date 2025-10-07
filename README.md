@@ -96,7 +96,7 @@ The **Statistics Activity** helps users visualize disease occurrences over diffe
   - 🍁 *Tea Red Leaf Spot*  
   - ✅ *Healthy*  
 
-👉 [**Data in Brief Paper Link: **](https://www.sciencedirect.com/science/article/pii/S2352340925001118)
+👉 [**Read the Data in Brief Paper of the Dataset**](https://www.sciencedirect.com/science/article/pii/S2352340925001118)
 
 ---
 
