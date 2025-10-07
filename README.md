@@ -88,13 +88,15 @@ The **Statistics Activity** helps users visualize disease occurrences over diffe
 
 ## 🧠 **Behind the Scenes**
 
-- The model is trained on tea leaf disease images using **TensorFlow** and deployed with **TensorFlow Lite** for Android.
+- The **F-TeaNet** model is trained on tea leaf disease images using and deployed with **TensorFlow Lite** for Android.
 - The app uses **Room Database** to store local statistics for daily, weekly, and monthly monitoring.
 - Disease categories include:
   - 🍂 *Tea Leaf Blight*  
   - 🌿 *Tea Red Scab*  
   - 🍁 *Tea Red Leaf Spot*  
   - ✅ *Healthy*  
+
+👉 [**Data in Brief Paper Link: **](https://www.sciencedirect.com/science/article/pii/S2352340925001118)
 
 ---
 
