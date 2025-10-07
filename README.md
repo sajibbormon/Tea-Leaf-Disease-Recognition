@@ -102,7 +102,7 @@ The **Statistics Activity** helps users visualize disease occurrences over diffe
 
 You can download the **APK file** and **test images** directly from the following folder:
 
-👉 [**Download APK Folder**](https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/tree/main/Download%20APK)
+👉 [**Download APK And Test Image**](https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/tree/main/Download%20APK)
 
 Once downloaded:
 1. Install the APK on your Android device.  
