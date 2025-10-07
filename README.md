@@ -33,7 +33,7 @@ It helps farmers and researchers monitor plant health efficiently and visualize 
 ---
 
 ### 🔍 **2. Disease Analysis**
-- When the user clicks on **Analyze Disease**, the app processes the image using a trained CNN model (`.tflite`) and displays:
+- When the user clicks on **Analyze Disease**, the app processes the image using a trained F-TeaNet model (`.tflite`) and displays:
   - The **predicted disease class**
   - The **confidence percentage**
   - A short **description and prevention guide**
