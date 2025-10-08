@@ -56,28 +56,35 @@ The **Statistics Activity** helps users visualize disease occurrences over diffe
   <img src="https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/blob/main/Assists/today.jpg" width="280" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);" alt="Today's Data"/>
 </p>
 
-#### 📆 **b) Weekly Statistics**
+#### 📅 **b) Specific day’s Statistics**
+- Shows any specific day’s predictions and results chosen by user.
+
+<p align="center">
+  <img src="https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/blob/main/Assists/selectedDate.jpg" width="280" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);" alt="Specific's Data"/>
+</p>
+
+#### 📆 **c) Weekly Statistics**
 - Displays data from **Monday to Sunday** of the selected week.
 
 <p align="center">
   <img src="https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/blob/main/Assists/week.jpg" width="280" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);" alt="Weekly Statistics"/>
 </p>
 
-#### 🗓️ **c) Monthly Statistics**
+#### 🗓️ **d) Monthly Statistics**
 - Displays total analysis data for the selected month.
 
 <p align="center">
   <img src="https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/blob/main/Assists/month.jpg" width="280" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);" alt="Monthly Statistics"/>
 </p>
 
-#### 📈 **d) Custom Date Range**
+#### 📈 **e) Custom Date Range**
 - Users can select a specific date and view data for **any previous number of days**.
 
 <p align="center">
   <img src="https://github.com/sajibbormon/Tea-Leaf-Disease-Recognition/blob/main/Assists/prev.jpg" width="280" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);" alt="Custom Range"/>
 </p>
 
-#### 🥧 **e) Pie Chart Visualization**
+#### 🥧 **f) Pie Chart Visualization**
 - The same data can also be visualized as a **Pie Chart**, giving an instant overview of disease distribution.
 
 <p align="center">
